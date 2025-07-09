@@ -4,8 +4,6 @@
     <title>Hello Laravel</title>
 </head>
 <body>
-    <h1 style="text-align:center; margin-top:100px;">
-        Hello World from Laravel, Fadil 🎉
-    </h1>
+<h1 style="color:green;">Laravel updated otomatis dari GitHub 💚</h1>
 </body>
 </html>
